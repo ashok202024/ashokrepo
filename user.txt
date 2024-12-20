@@ -10,3 +10,4 @@ def generate_username(length=8):
 # Example usage
 sample_username = generate_username()
 print(f"Sample Username: {sample_username}")
+       oikjhg
